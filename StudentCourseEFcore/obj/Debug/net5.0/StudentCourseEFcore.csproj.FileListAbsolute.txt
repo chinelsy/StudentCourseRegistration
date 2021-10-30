@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\bin\Debug\net5.0\StudentCourseEFcore.deps.json
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\bin\Debug\net5.0\StudentCourseEFcore.runtimeconfig.json
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\bin\Debug\net5.0\StudentCourseEFcore.runtimeconfig.dev.json
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\bin\Debug\net5.0\StudentCourseEFcore.dll
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\bin\Debug\net5.0\ref\StudentCourseEFcore.dll
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\bin\Debug\net5.0\StudentCourseEFcore.pdb
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\StudentCourseEFcore.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\StudentCourseEFcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\StudentCourseEFcore.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\StudentCourseEFcore.AssemblyInfo.cs
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\StudentCourseEFcore.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\StudentCourseEFcore.dll
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\ref\StudentCourseEFcore.dll
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\StudentCourseEFcore.pdb
+C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseEFcore\obj\Debug\net5.0\StudentCourseEFcore.genruntimeconfig.cache
