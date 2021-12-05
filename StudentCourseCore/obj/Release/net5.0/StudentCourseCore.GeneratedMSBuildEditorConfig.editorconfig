@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = StudentCourseEFcore
-build_property.ProjectDir = C:\Users\USER\Desktop\source\repos\StudentCourseEFcore\StudentCourseEFcore\
+build_property.RootNamespace = StudentCourseCore
+build_property.ProjectDir = C:\Users\hp\source\repos\StudentCourseEFcore\StudentCourseCore\
